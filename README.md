@@ -2,9 +2,14 @@
 Exemplo de criação de API Asp.Net MVC5 utilizando banco de dados MySQL.
 
 ### O que você vai encontrar neste projeto
-- **Dicionário de Dados** - Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados.
-- **Swagger** - Ele automatiza a geração da documentação OpenAPI.
-  
+
+| Tecnologia | Descrição |
+|-----------|-----------|
+| **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados.. |
+| **Swagger** | Ele automatiza a geração da documentação OpenAPI |
+---
+
+
 #### Execução da aplicação
 Para executar a aplicação é necessário a execução do Script do MySQL.
 
